@@ -3,13 +3,15 @@ How to combinate createSwitchNavigator/createStackNavigator/createBottomTabNavig
 
 [![Watch the video](http:svetlana.siarsky.ch/assets/images/ExampleReactNativenavigation3.png)](https://youtu.be/DjjLY1LU5dU)
 
-// install node_modules
+#### Installation with npm  
 npm install 
 
-//pod
+#### Installation podfile
 cd ios
+
 pod install
 
-// run the app in simulator
+#### run the app in simulator
 cd ..
+
 react-native run-ios
