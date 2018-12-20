@@ -1,0 +1,2 @@
+# example-react-navigation3.0
+How to combinate createSwitchNavigator/createStackNavigator/createBottomTabNavigator/createDrawerNavigator
